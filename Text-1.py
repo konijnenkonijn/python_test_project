@@ -7,3 +7,6 @@ veel = raw_input("hoeveel wortels wil je?")
 
 konijn(veel)
     
+def flappie (veel):
+    print "zucht, honger..."
+    
